@@ -262,8 +262,8 @@ entre a tag de abertura e a de fechamento, assim: `<div id="balaozinho"></div>`.
 
 [inner-html]: https://willsallum.github.io/cefet_front_end/classes/js2/#alterando-o-conteudo
 [selecionar-varios]: https://willsallum.github.io/cefet_front_end/classes/js2/#selecionando-varios-elementos
-[posicao-mouse]: https://willsallum.github.io/cefet_front_end/classes/js3/#posicao-mouse
-[alterando-estilo-via-js]: https://willsallum.github.io/cefet_front_end/classes/js3/#estilizando-elementos-dinamicamente
+[posicao-mouse]: https://willsallum.github.io/cefet_front_end/classes/js3/#pegando-xy-do-mouse
+[alterando-estilo-via-js]: https://willsallum.github.io/cefet_front_end/classes/js3/#alterando-propriedades-css-de-elementos
 [associar-eventos]: https://willsallum.github.io/cefet_front_end/classes/js1/#o-objeto-document
 [eventos-de-mouse]: https://willsallum.github.io/cefet_front_end/classes/js3/#eventos-de-mouse
 [argumento-de-evento]: https://willsallum.github.io/cefet_front_end/classes/js2/#argumento-de-evento
