@@ -1,3 +1,28 @@
+<!-- {"layout": "section-header", "hash": "photosnap"} -->
+# PhotoSnap :camera: x2
+## Reimplementando com jQuery
+
+- Relembrando...
+- Novo enunciado
+<!-- {ul:.content} -->
+
+---
+<!-- {"backdrop": "photosnap"} -->
+
+---
+## Enunciado
+
+- O código da atividade PhotoSnap está pronto em _vanilla_ JavaScript, no arquivo `script/balaozinho-vanilla.js`
+  - Você deve recriar a mesma funcionalidade usando jQuery, no arquivo `script/balaozinho-jquery.js` (que está vazio)
+- [Baixe os arquivos][arquivos]. Veja que está funcionando!! Agora você deve refazer o exercício, conforme o enunciado completo, usando a biblioteca jQuery
+  - Repare que você deve **incluir `script/balaozinho-jquery.js` em vez de**
+  **`script/balaozinho-vanilla.js`** <!-- {strong:.alternate-color} -->
+    - Altere o `index.html` para refletir isso!
+
+[arquivos]: https://github.com/fegemo/cefet-front-end-snap/archive/jquery.zip
+
+---
+
 # P~~oké~~hotoSnap
 
 Uma ferramenta para marcar suas fotos! Baixe o [código seminal][seminal].
