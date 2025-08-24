@@ -4,10 +4,6 @@
 
 - Relembrando...
 - Novo enunciado
-<!-- {ul:.content} -->
-
----
-<!-- {"backdrop": "photosnap"} -->
 
 ---
 ## Enunciado
